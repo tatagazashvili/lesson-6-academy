@@ -1,0 +1,159 @@
+/* header */
+.logo {
+    float: left;
+    margin-left: 140px;
+    width: 134px;
+    height: 90px;
+    margin-top: 5px;
+        
+}
+
+.navigation {
+    float: left;
+    width: 463px;
+    margin-left: 123px;
+    margin-top: 48px;
+    margin-bottom: 51px;
+
+}
+
+
+.nav-li {
+    float:left;
+    margin-right: 19px;
+    color:#181C28;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.clear {
+    clear: both;
+}
+
+.header-wraper {
+    background-color:#FFFFFF;
+    padding: 30px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 100px;
+}
+
+body {
+
+    padding-top: 120px;
+}
+
+/* section1 */
+.conteiner {
+    width: 1600px;
+    height: 2949px;
+    left: auto;
+    right: auto;
+    background-attachment: #FFFFFF;
+
+}
+
+.image-box1 {
+   width: 636px;
+   height: 672px;
+   float: left;
+   margin-left: 52px;
+   
+}
+
+
+.title {
+    margin-top: 83px;
+    margin-bottom: 83px;
+    margin-left: 172px;
+    font-size: 22px;
+    color: #FF7A00;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text1 {
+    color: #181C28;
+    font-size: 36px;
+    width: 589px;
+    margin-top: 20px;
+    margin-bottom: 22px;
+    font-family: 'Playfair Display', serif;
+}
+
+.text2 {
+    color: #7B7B7B;
+    font-size: 16px;
+    width: 686px;
+    margin-bottom: 22px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-buttom {
+    color:#FF7A00 ;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.buttom1 {
+    width: 190px;
+    height: 70px;
+    margin-bottom: 134px;
+    margin-left: 705px;
+}
+
+.text-image {
+    position: absolute;
+    top: 104px;
+    left: 663px;
+    color: #FFFFFF;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-image2 {
+    position: absolute;
+    top: 132px;
+    bottom: 186px;
+    left: 690px;
+    color: #FFFFFF;
+    font-size: 48px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.general-relative {
+    position: relative;
+    margin-top: 26px;
+    margin-bottom: 81px;
+
+}
+
+.buttom1 {
+    position: relative;
+}
+
+.text-image3 {
+    position: absolute;
+    top: 23px;
+    bottom: 26px;
+    left: 48px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+
+}
+/* footer */
+
+.navig1 {
+    margin-top: 81px;
+    margin-right: 245px;
+    float: left;
+}
+
+.footer-div{
+    margin-top: 81px;
+    width: 1600px;
+    height: 362px;
+}
